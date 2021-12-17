@@ -4,5 +4,5 @@
     <li>
         Send Message <br/>
     </li>
-    ![alt text](https://github.com/kirandz/rakamin-recruitment/blob/master/public/images/documentation/send-message.png?raw=true)
+    <img src="https://github.com/kirandz/rakamin-recruitment/blob/master/public/images/documentation/send-message.png" width="350" alt="accessibility text">
 </ul>
